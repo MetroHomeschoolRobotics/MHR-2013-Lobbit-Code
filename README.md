@@ -1,1 +1,1 @@
-# MHR-2013-Lobbit-Code
+MHR Code for the Lobbit
